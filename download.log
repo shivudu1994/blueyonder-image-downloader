@@ -1,0 +1,41 @@
+2024-01-03 20:17:57,836 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.109:5001
+2024-01-03 20:17:57,836 - INFO - [33mPress CTRL+C to quit[0m
+2024-01-03 20:17:57,837 - INFO -  * Restarting with stat
+2024-01-03 20:17:57,956 - WARNING -  * Debugger is active!
+2024-01-03 20:17:57,965 - INFO -  * Debugger PIN: 800-158-977
+2024-01-03 20:18:22,977 - INFO - 127.0.0.1 - - [03/Jan/2024 20:18:22] "GET / HTTP/1.1" 200 -
+2024-01-03 20:18:29,934 - INFO - 127.0.0.1 - - [03/Jan/2024 20:18:29] "POST /download HTTP/1.1" 200 -
+2024-01-03 20:18:36,253 - INFO - Downloaded: painting-mountain-lake-with-mountain-background_188544-9126.jpg
+2024-01-03 20:18:40,690 - INFO - Downloaded: dd973ac116a977c8dd5296b0da504b8c.jpg
+2024-01-03 20:18:40,693 - INFO - Download complete.
+2024-01-03 20:19:11,153 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.109:5001
+2024-01-03 20:19:11,153 - INFO - [33mPress CTRL+C to quit[0m
+2024-01-03 20:19:11,153 - INFO -  * Restarting with stat
+2024-01-03 20:19:11,267 - WARNING -  * Debugger is active!
+2024-01-03 20:19:11,273 - INFO -  * Debugger PIN: 800-158-977
+2024-01-03 20:19:32,163 - INFO - 127.0.0.1 - - [03/Jan/2024 20:19:32] "GET / HTTP/1.1" 200 -
+2024-01-03 20:19:45,741 - INFO - 127.0.0.1 - - [03/Jan/2024 20:19:45] "GET / HTTP/1.1" 200 -
+2024-01-03 20:19:54,609 - INFO - 127.0.0.1 - - [03/Jan/2024 20:19:54] "GET / HTTP/1.1" 200 -
+2024-01-03 20:20:35,874 - INFO -  * Detected change in '/Users/sivabathala/Documents/python-projects/blueyonder-image-downloader/app.py', reloading
+2024-01-03 20:20:35,896 - INFO -  * Restarting with stat
+2024-01-03 20:20:36,069 - WARNING -  * Debugger is active!
+2024-01-03 20:20:36,074 - INFO -  * Debugger PIN: 800-158-977
+2024-01-03 20:20:39,170 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.109:5001
+2024-01-03 20:20:39,170 - INFO - [33mPress CTRL+C to quit[0m
+2024-01-03 20:20:39,170 - INFO -  * Restarting with stat
+2024-01-03 20:20:39,289 - WARNING -  * Debugger is active!
+2024-01-03 20:20:39,293 - INFO -  * Debugger PIN: 800-158-977
+2024-01-03 20:20:46,612 - INFO - 127.0.0.1 - - [03/Jan/2024 20:20:46] "GET / HTTP/1.1" 200 -
+2024-01-03 20:20:52,514 - INFO - 127.0.0.1 - - [03/Jan/2024 20:20:52] "POST /download HTTP/1.1" 200 -
+2024-01-03 20:21:00,931 - INFO - Downloaded: painting-mountain-lake-with-mountain-background_188544-9126.jpg
+2024-01-03 20:21:04,163 - INFO - Downloaded: dd973ac116a977c8dd5296b0da504b8c.jpg
+2024-01-03 20:21:04,165 - INFO - Download complete.

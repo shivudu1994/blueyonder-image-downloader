@@ -1,0 +1,2 @@
+invalid_url
+https://example.com/valid.jpg
